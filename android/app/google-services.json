@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "470348308633",
+    "firebase_url": "https://fieta-apps.firebaseio.com",
+    "project_id": "fieta-apps",
+    "storage_bucket": "fieta-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470348308633:android:d11e710b76cfbad85f1808",
+        "android_client_info": {
+          "package_name": "com.android.fieta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470348308633-u17m7c1tc2g81197uuuhocp67253m3lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKxIzPRavLcdm4j943exk9o2ELXnJoJFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470348308633-u17m7c1tc2g81197uuuhocp67253m3lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
